@@ -1,0 +1,165 @@
+@font-face{
+    font-family: 'Tangerine', cursive;
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+
+
+#bloc_page{
+    padding: 10% 25%;
+    margin: auto;
+}
+
+
+
+header{
+    height: 100px;
+    border: 1px solid;
+}
+
+section{
+    height: 500px;
+    border: 1px solid;
+}
+
+.section_1, .section_2{
+    height: 100%;
+    border: 1px solid;
+    
+    
+}
+
+.section_1{
+    width: 25%;
+    float:left;
+    padding: 20px;
+}
+
+.section_2{
+    width: 100%;
+}
+
+.nav_1{
+    height: 60%;
+    margin-bottom: 10%;
+    
+}
+
+.aside_1{
+    height: 20%;
+}
+
+
+.nav_2{
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+article{
+    
+    height: 350px;
+    width: 440px;
+    
+    float: left;
+    margin-left: 25px;
+    
+
+    
+    
+    
+}
+
+.aside_2{
+    height: 350px;
+    width: 20%;
+    float: left;
+    margin-left: 25px;
+}
+
+
+footer{
+    height: 50px;
+    border: 1px solid;
+}
+
+.logo{
+    font-size: 70px;
+    height: 100px;
+    width: 75px;
+    float:left;
+}
+
+.logo p{
+    line-height: 75px;
+    text-align: center;
+    color: purple;
+    
+}
+
+.nom_1 {
+    height: 100px;
+    width: 300px;
+    font-size: 15px;
+    float:left;
+}
+
+.nom_2{
+    font-size: 12px;
+}
+
+.nom_2 span{
+    
+    font-family: 'Tangerine', cursive;
+
+}
+
+#input1, #recherche{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.nav_1, .aside_1, .nav_2, article, .aside_2{
+    border: 1px solid;
+} 
+
+ul{
+    padding-left: 20px;
+}
+.nav_1{
+    padding: 5px;
+}
+
+footer p{
+    padding: 10px;
+}
+
+h1, h3{
+    padding-bottom: 25px;
+    
+}
+
+.nom_1{
+    line-height: 30px;
+}
+
+nav li{
+    margin-bottom: 7px;
+}
+
+
+
+
+
+
+
+
+
